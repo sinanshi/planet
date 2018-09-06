@@ -1,1 +1,3 @@
 this is also a planet
+It doesn't have a solid surface.
+It's orbital period is > 240 years. 
